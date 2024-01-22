@@ -1,0 +1,6 @@
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteCond %{HTTP_HOST} ^express\.zhinsaze\.com$ [OR]
+    RewriteCond %{HTTP_HOST} ^www\.express\.zhinsaze\.com$
+    RewriteRule ^(.*)$ http://zhincool.com/express/$1 [R=301,L]
+</IfModule>
