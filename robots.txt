@@ -4,4 +4,4 @@ Disallow: /tmp/
 Disallow: /private/
 Disallow: /admin/
 
-Sitemap: http://v2ray.express/sitemap_index.xml
+Sitemap: http://zhincool.com/express/sitemap.xml
