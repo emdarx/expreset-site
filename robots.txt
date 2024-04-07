@@ -3,4 +3,4 @@ Disallow: /private/
 Allow: /public/
 Allow: /path/to/sitemap.xml
 
-Sitemap: http://expreset.eu.org/sitemap.xml
+Sitemap: http://expreset1.club/sitemap.xml
